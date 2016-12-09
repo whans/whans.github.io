@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title> on Hanson blog</title>
-        <link>http://whans.github.io/index.xml</link>
+        <link>https://whans.github.io/index.xml</link>
         <language>zh-CN</language>
         <author>Hanson</author>
         <rights>Copyright (c) 2015, Hanson; all rights reserved.</rights>
@@ -10,10 +10,10 @@
         
         <item>
             <title>关于我</title>
-            <link>http://whans.github.io/about/</link>
+            <link>https://whans.github.io/about/</link>
             <pubDate>Thu, 01 Jan 2015 08:55:31 CST</pubDate>
             <author>Hanson</author>
-            <guid>http://whans.github.io/about/</guid>
+            <guid>https://whans.github.io/about/</guid>
             <description>
 
 &lt;p class=&#34;message&#34;&gt;
