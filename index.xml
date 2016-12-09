@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title> on Hanson blog</title>
+        <link>http://whans.github.io/index.xml</link>
+        <language>zh-CN</language>
+        <author>Hanson</author>
+        <rights>Copyright (c) 2015, Hanson; all rights reserved.</rights>
+        <updated>Thu, 01 Jan 2015 08:55:31 CST</updated>
+        
+        <item>
+            <title>关于我</title>
+            <link>http://whans.github.io/about/</link>
+            <pubDate>Thu, 01 Jan 2015 08:55:31 CST</pubDate>
+            <author>Hanson</author>
+            <guid>http://whans.github.io/about/</guid>
+            <description>
+
+&lt;p class=&#34;message&#34;&gt;
+大家好，我叫 Hanson，是一名程序员。
+&lt;/p&gt;
+
+&lt;h3 id=&#34;我的经历&#34;&gt;我的经历&lt;/h3&gt;
+
+&lt;h3 id=&#34;我的技能&#34;&gt;我的技能&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;编程语言：C++, C#, Python, Lua。钟爱 Python，捣鼓 Go……&lt;/li&gt;
+&lt;li&gt;Android 开发。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;生活中的我&#34;&gt;生活中的我&lt;/h3&gt;
+
+&lt;h3 id=&#34;系列文章&#34;&gt;系列文章&lt;/h3&gt;
+
+&lt;h3 id=&#34;一些链接&#34;&gt;一些链接&lt;/h3&gt;
+
+&lt;h3 id=&#34;声明&#34;&gt;声明&lt;/h3&gt;
+
+&lt;p&gt;本博客所有文章皆为原创。转载请注明原文链接，并最好与本人联系。谢谢！&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
